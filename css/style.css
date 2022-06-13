@@ -230,7 +230,7 @@ section{
 /*Inicio de formulario*/
 
 form{
-      width: 450px;
+      width: 100%;
       margin: auto;
       background: rgb(0, 0, 0,0.4);
       padding: 10px 20px;
