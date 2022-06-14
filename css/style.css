@@ -117,56 +117,8 @@ a{
 }
 
 
-/*Inicio Carrusel
-    
-section{
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
-#conteitemcarrusel{
-    padding: 10px;
-    height: 500px;
-    overflow:hidden;
-    display: flex;
-    justify-content: center;
-    
-}
 
-.itemcarrusel{
-   
-    height: 500px;
-    position: relative;
-}
-
-.tarjetacarrusel{
-
-    height: 100%;
-}
-
-.flechacarrusel{
-    position: absolute;
-    top: 0;
-    height: 100%;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-
-
-
-.imagen-carrusel{
-    height: 500px;
-    width: 500px;
-  
-}
-
-
-
-*/
-
-/*inicio css portafolio*/
+/*inicio css estudios*/
 
 #proyectos{
     display: flex;
@@ -199,7 +151,9 @@ section{
 
 .lenguaje{
     width: 500px;
+    padding: 10px;
 }
+
 
 
 /*inicio de css de Hobby*/
@@ -414,6 +368,7 @@ textarea{
 
 p{
     color:#999;
+    text-align: center;
 }
 
 @media(max-width:840px){
